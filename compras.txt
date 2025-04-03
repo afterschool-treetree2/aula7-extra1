@@ -1,0 +1,6 @@
+ovos 6
+bifes 4
+iogurtes 33
+ervilhas 4632
+feijões 2000
+arroz 43
